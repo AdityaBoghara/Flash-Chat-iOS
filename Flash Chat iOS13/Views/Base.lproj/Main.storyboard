@@ -341,8 +341,8 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="messageTextfield" destination="UWj-GQ-Vph" id="INS-Xk-EA9"/>
-                        <outlet property="tableView" destination="S6L-hg-cne" id="pOF-J9-PK9"/>
+                        <outlet property="messageTextfield" destination="UWj-GQ-Vph" id="w02-2A-cAq"/>
+                        <outlet property="tableView" destination="S6L-hg-cne" id="2L6-Ms-QqM"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jFP-qE-CyQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
